@@ -1280,6 +1280,9 @@ o @keyframes bannar_come {
 #story {
   display: none;
 }
+#balloons_flying {
+  opacity: 0;
+}
 
 .cake-cover {
   margin-top: 120px;

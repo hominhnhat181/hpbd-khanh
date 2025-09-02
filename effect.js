@@ -62,6 +62,7 @@ $("document").ready(function () {
       .promise()
       .done(function () {
         $("#balloons_flying").fadeIn("slow");
+        $("#balloons_flying").click();
       });
   });
 
